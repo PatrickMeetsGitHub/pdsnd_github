@@ -12,7 +12,7 @@ This project is about showing what I´ve learned during git / GitHub course.
 ### Files used
 .gitignore
 README.md
-bikeshare_2.py
+bikeshare_2.py (this is my python file in which you can find information about bikshare)
 
 ### Credits
 Repo forked from: https://github.com/udacity/pdsnd_github.git.
