@@ -7,7 +7,7 @@ I created this repo on 30th of July, 2023, 11:30 to be exact.
 The project title is pdsnd_github.
 
 ### Description
-This project is about showing what I´ve learned during git / GitHub course.
+This project is about showing what I´ve learned during git / GitHub course. It is for the Nanodegree Data Scientist.
 
 ### Files used
 .gitignore
